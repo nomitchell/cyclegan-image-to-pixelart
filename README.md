@@ -2,9 +2,18 @@ This model and run file are an implementation of a CycleGAN model to convert ima
 
 More information can be seen in my blog post: https://nomitchell.github.io/2024/08/22/Pixel-CycleGAN.html
 
-Either store images in the imgs/a directory, or specify an input directory in the command line when running:
+1. Install requirements
+```bash
+pip install -r requirements.txt
+```
+
+2. Either store images in the imgs/a directory, or specify an input directory in the command line when running:
+
+3.
 ```bash
 python run.py ./your_directory/
+or
+python run.py
 ```
 
 Before and After  
