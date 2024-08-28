@@ -17,9 +17,6 @@ python run.py
 ```
 
 Before and After  
-![518](https://github.com/user-attachments/assets/053dff62-5715-455f-b828-7c1cfe399bed)
-![3534image](https://github.com/user-attachments/assets/a6a7e167-d7c1-454f-b748-b20619b23288)
+![4048](https://github.com/user-attachments/assets/92d34f41-f2c0-498a-8f29-f412dcf8839b)
+![1_image](https://github.com/user-attachments/assets/5cc3178a-3f95-4ef2-a841-7755b94200e2)
 
-Examples  
-![3384image](https://github.com/user-attachments/assets/566962db-09b7-444e-80cd-00f6f4e728bb)
-![3392image](https://github.com/user-attachments/assets/7c26b4b6-bd02-4b32-9c82-5d653281cac1)
